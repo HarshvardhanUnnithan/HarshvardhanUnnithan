@@ -1,22 +1,29 @@
-# Hi there 👋
+# Hi there 👋,My Name is Harshvardhan Unnithan
 
-## 👤 Who I Am  
-I am a data analyst 📊 driven by impact.  
-Want to  help businesses make smarter decisions.  
+## 👤 About Me  
+Hey, I’m Harsh from Pune, India 
 
-## 🚀 What I’m Currently Working On  
-- Expanding my skills in **Databricks** for big data analytics  
-- Learning **Power Automate** to streamline workflows and boost efficiency  
+I like breaking down problems into clear steps that lead to solutions.  
+I enjoy working with **Python** and **SQL**, though I’ll admit **DAX** sometimes keeps me on my toes 😅.  
+My dashboards are designed for impact and are easy to interpret and have a clean, minimalistic design .  
+  
+
+
+## 🚀 I Am Currently Working On  
+Hospitality domain analysis project — analyzing pricing strategies and revenue optimization.
+
+## 📚 I Am Currently Learning  
+- **Databricks** for big data analytics  
+- **Power Automate** to streamline workflows and boost efficiency  
 
 ## 🛠️ Tools I Use  
+- **Excel**  
 - **Python** (pandas, NumPy, scikit-learn)  
 - **SQL Server**  
 - **Power BI** (DAX, data visualization)  
-- **Excel**  
 
 ## 📫 How to Reach Me  
 - Email: *unnithanharsh7@gmail.com*  
 - [LinkedIn](https://www.linkedin.com/in/harshvardhan-unnithan-2653652b9/)  
 - GitHub: *You’re already here!* 😄  
-
 
