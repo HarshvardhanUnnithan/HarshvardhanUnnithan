@@ -2,7 +2,7 @@
 
 ## 👤 Who I Am  
 I am a data analyst 📊 driven by impact.  
-Passionate about turning numbers into narratives that help businesses make smarter decisions.  
+Want to  help businesses make smarter decisions.  
 
 ## 🚀 What I’m Currently Working On  
 - Expanding my skills in **Databricks** for big data analytics  
@@ -12,12 +12,11 @@ Passionate about turning numbers into narratives that help businesses make smart
 - **Python** (pandas, NumPy, scikit-learn)  
 - **SQL Server**  
 - **Power BI** (DAX, data visualization)  
-- **Excel** (advanced analytics & dashboards)  
+- **Excel**  
 
 ## 📫 How to Reach Me  
 - Email: *unnithanharsh7@gmail.com*  
 - [LinkedIn](https://www.linkedin.com/in/harshvardhan-unnithan/)  
 - GitHub: *You’re already here!* 😄  
 
----
-✨ *“Data analyst 📊 | Solving for impact 📈”*  
+
