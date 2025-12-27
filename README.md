@@ -3,7 +3,7 @@
 ## 👤 About Me  
 Hey, I’m from Pune, India 
 
-I like breaking down problems into clear steps that lead to solutions.  
+I like breaking down problems.  
 I enjoy working with **Python** and **SQL**, though I’ll admit **DAX** sometimes keeps me on my toes 😅.  
 My dashboards are designed for impact and are easy to interpret and have a clean, minimalistic design .  
   
