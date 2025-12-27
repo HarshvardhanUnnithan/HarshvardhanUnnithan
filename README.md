@@ -4,7 +4,11 @@
  I’m from Pune, India 
  
 I like breaking down problems and learning.  
-I enjoy working with **Python** and **SQL**, though I’ll admit **DAX** sometimes keeps me on my toes 😅.  
+
+I enjoy working with ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+and ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white), 
+though ![DAX](https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black) sometimes keeps me on my toes 😅
+
 My dashboards are designed for impact and are easy to interpret and have a clean, minimalistic design .  
   
 
