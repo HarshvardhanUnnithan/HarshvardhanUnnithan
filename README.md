@@ -1,7 +1,7 @@
 # Hi there 👋,My Name is Harshvardhan Unnithan
 
 ## 👤 About Me  
-Hey, I’m Harsh from Pune, India 
+Hey, I’m from Pune, India 
 
 I like breaking down problems into clear steps that lead to solutions.  
 I enjoy working with **Python** and **SQL**, though I’ll admit **DAX** sometimes keeps me on my toes 😅.  
