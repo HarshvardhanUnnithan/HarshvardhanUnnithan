@@ -16,7 +16,7 @@ Want to  help businesses make smarter decisions.
 
 ## 📫 How to Reach Me  
 - Email: *unnithanharsh7@gmail.com*  
-- [LinkedIn](in/harshvardhan-unnithan-2653652b9)  
+- [LinkedIn]([in/harshvardhan-unnithan-2653652b9](https://www.linkedin.com/in/harshvardhan-unnithan-2653652b9/))  
 - GitHub: *You’re already here!* 😄  
 
 
