@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**HarshvardhanUnnithan/HarshvardhanUnnithan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 Who I Am  
+I am a data analyst 📊 driven by impact.  
+Passionate about turning numbers into narratives that help businesses make smarter decisions.  
 
-Here are some ideas to get you started:
+## 🚀 What I’m Currently Working On  
+- Expanding my skills in **Databricks** for big data analytics  
+- Learning **Power Automate** to streamline workflows and boost efficiency  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I Use  
+- **Python** (pandas, NumPy, scikit-learn)  
+- **SQL Server**  
+- **Power BI** (DAX, data visualization)  
+- **Excel** (advanced analytics & dashboards)  
+
+## 📫 How to Reach Me  
+- Email: *unnithanharsh7@gmail.com*  
+- [LinkedIn](https://www.linkedin.com/in/harshvardhan-unnithan/)  
+- GitHub: *You’re already here!* 😄  
+
+---
+✨ *“Data analyst 📊 | Solving for impact 📈”*  
